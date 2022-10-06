@@ -1,5 +1,6 @@
 var guestList = ["Quaid-e-Azam","Imran khan","Junaid jamsheed"];
-console.log(`Quaid-e-Azam can't make it.`)
+var notComing = "Quaid-e-Azam"; 
+console.log(`${notComing} can't make it.`)
 
 guestList.unshift("Zafar");
 guestList.splice(3,0,"Khalid");

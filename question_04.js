@@ -1,4 +1,1 @@
-var quote = '"Try again, fail again, fail better."';
-var authorName = "Samuel Beckett";
-
-console.log(`${authorName} once said, ${quote}`);
+console.log('Samuel Beckett once said, "Try again, fail again, fail better".');
